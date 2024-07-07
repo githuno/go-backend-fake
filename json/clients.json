@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Group 1", "users": 14, "status": "Active" },
+  { "id": 2, "name": "Group 2", "users": 7, "status": "Active" },
+  { "id": 3, "name": "Group 3", "users": 31, "status": "Active" },
+  { "id": 4, "name": "Group 4", "users": 42, "status": "Active" },
+  { "id": 5, "name": "Group 5", "users": 59, "status": "Active" },
+  { "id": 6, "name": "Group 6", "users": 11, "status": "Active" },
+  { "id": 7, "name": "Group 7", "users": 75, "status": "Active" },
+  { "id": 8, "name": "Group 8", "users": 28, "status": "Active" },
+  { "id": 9, "name": "Group 9", "users": 93, "status": "Active" },
+  { "id": 10, "name": "Group 10", "users": 18, "status": "Active" },
+  { "id": 11, "name": "Group 11", "users": 67, "status": "Active" },
+  { "id": 12, "name": "Group 12", "users": 85, "status": "Active" },
+  { "id": 13, "name": "Group 13", "users": 39, "status": "Active" },
+  { "id": 14, "name": "Group 14", "users": 51, "status": "Active" },
+  { "id": 15, "name": "Group 15", "users": 22, "status": "Active" },
+  { "id": 16, "name": "Group 16", "users": 98, "status": "Active" },
+  { "id": 17, "name": "Group 17", "users": 44, "status": "Active" },
+  { "id": 18, "name": "Group 18", "users": 61, "status": "Active" },
+  { "id": 19, "name": "Group 19", "users": 13, "status": "Active" },
+  { "id": 20, "name": "Group 20", "users": 76, "status": "Active" }
+]
